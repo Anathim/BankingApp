@@ -1,0 +1,4 @@
+Deposit: +10000.00
+Withdrawal: -1000.00
+Withdrawal: -5000.00
+Deposit: +200.00
